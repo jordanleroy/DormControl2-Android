@@ -1,0 +1,19 @@
+<!-- res/drawable/heart.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:height="256dp"
+    android:width="256dp"
+
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+
+    <!-- draw a path -->
+<path android:fillColor="#FFFF"
+android:pathData= "M23,47H8v6h15V47z M15.875,51.062c-0.69,0-1.25-0.56-1.25-1.25s0.56-1.25,1.25-1.25s1.25,0.56,1.25,1.25
+	S16.565,51.062,15.875,51.062z
+	M23,36H8v6h15V36z M15.875,40.062c-0.69,0-1.25-0.56-1.25-1.25s0.56-1.25,1.25-1.25s1.25,0.56,1.25,1.25
+	S16.565,40.062,15.875,40.062z
+	M27,32h-2H4v22v3v3h3v-3h17v3h3v-3v-3V40h32v20h3V40v-2v-3v-3h-3H27z M24,54H7v-8h17V54z M24,43H7v-8h17V43z M59,38H27v-3
+	h32V38zx
+		"/>
+    </vector>
