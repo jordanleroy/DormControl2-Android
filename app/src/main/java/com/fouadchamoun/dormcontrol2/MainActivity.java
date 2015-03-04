@@ -20,6 +20,7 @@ import java.util.Calendar;
 import java.util.HashMap;
 import java.util.Map;
 
+Connard
 
 public class MainActivity extends Activity implements SwipeRefreshLayout.OnRefreshListener{
 
